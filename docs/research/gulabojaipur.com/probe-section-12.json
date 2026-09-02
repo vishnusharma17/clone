@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "selectors": [
+    "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(5)"
+  ],
+  "generatedAt": "2026-09-02T08:46:43.195Z",
+  "results": {
+    "phone": {
+      "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(5)": {
+        "_height": "252px",
+        "_width": "189px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "189px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "ipad": {
+      "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(5)": {
+        "_height": "504px",
+        "_width": "378px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "377.859px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "pc": {
+      "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(5)": {
+        "_height": "585px",
+        "_width": "439px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "438.656px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    }
+  }
+}

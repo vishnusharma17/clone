@@ -1,0 +1,206 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "generatedAt": "2026-09-02T07:27:40.773Z",
+  "viewport": "pc",
+  "selector": "div#shopify-section-template--22545883889905__manifesto",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "shopify-section",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 4193,
+      "pageX": 0,
+      "pageY": 4193,
+      "w": 1440,
+      "h": 579
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "section",
+        "classes": "manifesto wrap reveal",
+        "text": null,
+        "rect": {
+          "x": 40,
+          "y": 4221,
+          "pageX": 40,
+          "pageY": 4221,
+          "w": 1360,
+          "h": 579
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "rose-mark",
+            "text": "❀",
+            "rect": {
+              "x": 40,
+              "y": 4361,
+              "pageX": 40,
+              "pageY": 4361,
+              "w": 1360,
+              "h": 39
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "h2",
+            "classes": null,
+            "text": null,
+            "rect": {
+              "x": 260,
+              "y": 4422,
+              "pageX": 260,
+              "pageY": 4422,
+              "w": 920,
+              "h": 238
+            },
+            "childCount": 1,
+            "style": "s4",
+            "children": [
+              {
+                "tag": "p",
+                "classes": null,
+                "text": "Born in the gullies of the Pink City, Gulabo is a love letter to the hand — block prints pressed one petal at a time, dyed in rose and marigold, and stitched into ethnic wear made to be lived in.",
+                "rect": {
+                  "x": 260,
+                  "y": 4422,
+                  "pageX": 260,
+                  "pageY": 4422,
+                  "w": 920,
+                  "h": 238
+                },
+                "childCount": 0,
+                "style": "s5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "578.562px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "140px",
+      "paddingBottom": "140px",
+      "marginRight": "40px",
+      "marginLeft": "40px",
+      "width": "1360px",
+      "height": "578.562px",
+      "maxWidth": "1360px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 28)",
+      "transition": "opacity 1s cubic-bezier(0.2, 0.7, 0.2, 1), transform 1s cubic-bezier(0.2, 0.7, 0.2, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "32px",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "color": "rgb(174, 63, 88)",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "22px",
+      "width": "1360px",
+      "height": "39px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(174, 63, 88)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "fontSize": "46.4px",
+      "fontWeight": "400",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "lineHeight": "59.392px",
+      "letterSpacing": "0.232px",
+      "backgroundPosition": "0% 0%",
+      "marginRight": "220px",
+      "marginLeft": "220px",
+      "width": "920px",
+      "height": "237.562px",
+      "maxWidth": "920px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "920px",
+      "height": "237.562px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

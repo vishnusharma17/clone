@@ -1,0 +1,2593 @@
+{
+  "site": "https://www.gulabojaipur.com/",
+  "createdAt": "2026-09-02T07:27:09.443Z",
+  "pages": [
+    {
+      "url": "https://www.gulabojaipur.com/",
+      "route": "/",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__hero",
+          "selector": "div#shopify-section-template--22545883889905__hero",
+          "stage": "merged",
+          "spec": "docs/research/components/home/shopify-section-template--22545883889905__hero.spec.md",
+          "component": "src/components/home.tsx",
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__marquee",
+          "selector": "div#shopify-section-template--22545883889905__marquee",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__newarrivals",
+          "selector": "div#shopify-section-template--22545883889905__newarrivals",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cat",
+          "selector": "a.cat",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(4) > :nth-child(1) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__manifesto",
+          "selector": "div#shopify-section-template--22545883889905__manifesto",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__editorial",
+          "selector": "div#shopify-section-template--22545883889905__editorial",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__bridal",
+          "selector": "div#shopify-section-template--22545883889905__bridal",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__mostloved",
+          "selector": "div#shopify-section-template--22545883889905__mostloved",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__values",
+          "selector": "div#shopify-section-template--22545883889905__values",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__celebrity",
+          "selector": "div#shopify-section-template--22545883889905__celebrity",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-template--22545883889905__newsletter",
+          "selector": "div#shopify-section-template--22545883889905__newsletter",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/new-arrivals",
+      "route": "/collections/new-arrivals",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {
+            "pc": 3.22,
+            "ipad": 4.08,
+            "phone": 7.03
+          }
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/ready-to-ship",
+      "route": "/collections/ready-to-ship",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/women",
+      "route": "/collections/women",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/anarkalis",
+      "route": "/collections/anarkalis",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/kurta-set",
+      "route": "/collections/kurta-set",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/straight-sets",
+      "route": "/collections/straight-sets",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/co-ords",
+      "route": "/collections/co-ords",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(15)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(16)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(17)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(18)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(19)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(20)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(21)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(22)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(23)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(24)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "pagination",
+          "selector": "div.pagination",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/dresses",
+      "route": "/collections/dresses",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "facetform",
+          "selector": "form#FacetForm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "article",
+          "selector": "article.card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(9)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(10)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(11)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(12)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(13)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2) > :nth-child(2) > :nth-child(14)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/saree",
+      "route": "/collections/saree",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "section-1",
+          "selector": "body > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "head",
+          "selector": "header#head",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884053745__header",
+          "selector": "div#shopify-section-sections--22545884053745__header",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.col-banner",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(3) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "shopify-section-sections--22545884086513__footer",
+          "selector": "div#shopify-section-sections--22545884086513__footer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "cartdrawer",
+          "selector": "aside#cartDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wishdrawer",
+          "selector": "aside#wishDrawer",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "searchoverlay",
+          "selector": "div#searchOverlay",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "scrim",
+          "selector": "div#scrim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "wa-float",
+          "selector": "a.wa-float",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-02T08:49:31.928Z"
+}

@@ -1,0 +1,806 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "generatedAt": "2026-09-02T07:27:40.773Z",
+  "viewport": "pc",
+  "selector": "div#shopify-section-template--22545883889905__values",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "shopify-section",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 7335,
+      "pageX": 0,
+      "pageY": 7335,
+      "w": 1440,
+      "h": 241
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "section",
+        "classes": "wrap reveal",
+        "text": null,
+        "rect": {
+          "x": 40,
+          "y": 7363,
+          "pageX": 40,
+          "pageY": 7363,
+          "w": 1360,
+          "h": 241
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "values",
+            "text": null,
+            "rect": {
+              "x": 104,
+              "y": 7363,
+              "pageX": 104,
+              "pageY": 7363,
+              "w": 1232,
+              "h": 241
+            },
+            "childCount": 5,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "value",
+                "text": null,
+                "rect": {
+                  "x": 104,
+                  "y": 7435,
+                  "pageX": 104,
+                  "pageY": 7435,
+                  "w": 227,
+                  "h": 97
+                },
+                "childCount": 3,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 203,
+                      "y": 7435,
+                      "pageX": 203,
+                      "pageY": 7435,
+                      "w": 30,
+                      "h": 30
+                    },
+                    "childCount": 1,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 208,
+                          "y": 7439,
+                          "pageX": 208,
+                          "pageY": 7439,
+                          "w": 20,
+                          "h": 26
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h4",
+                    "classes": null,
+                    "text": "Handcrafted",
+                    "rect": {
+                      "x": 104,
+                      "y": 7485,
+                      "pageX": 104,
+                      "pageY": 7485,
+                      "w": 227,
+                      "h": 22
+                    },
+                    "childCount": 0,
+                    "style": "s7",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": null,
+                    "text": "Block-printed by Jaipur karigars",
+                    "rect": {
+                      "x": 104,
+                      "y": 7513,
+                      "pageX": 104,
+                      "pageY": 7513,
+                      "w": 227,
+                      "h": 19
+                    },
+                    "childCount": 0,
+                    "style": "s8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "value",
+                "text": null,
+                "rect": {
+                  "x": 355,
+                  "y": 7435,
+                  "pageX": 355,
+                  "pageY": 7435,
+                  "w": 227,
+                  "h": 97
+                },
+                "childCount": 3,
+                "style": "s9",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 454,
+                      "y": 7435,
+                      "pageX": 454,
+                      "pageY": 7435,
+                      "w": 30,
+                      "h": 30
+                    },
+                    "childCount": 2,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 458,
+                          "y": 7441,
+                          "pageX": 458,
+                          "pageY": 7441,
+                          "w": 23,
+                          "h": 17
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "circle",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 465,
+                          "y": 7446,
+                          "pageX": 465,
+                          "pageY": 7446,
+                          "w": 8,
+                          "h": 8
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h4",
+                    "classes": null,
+                    "text": "Pure Fabrics",
+                    "rect": {
+                      "x": 355,
+                      "y": 7485,
+                      "pageX": 355,
+                      "pageY": 7485,
+                      "w": 227,
+                      "h": 22
+                    },
+                    "childCount": 0,
+                    "style": "s10",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": null,
+                    "text": "Cotton, mul, chanderi & silk",
+                    "rect": {
+                      "x": 355,
+                      "y": 7513,
+                      "pageX": 355,
+                      "pageY": 7513,
+                      "w": 227,
+                      "h": 19
+                    },
+                    "childCount": 0,
+                    "style": "s11",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "value",
+                "text": null,
+                "rect": {
+                  "x": 606,
+                  "y": 7435,
+                  "pageX": 606,
+                  "pageY": 7435,
+                  "w": 227,
+                  "h": 97
+                },
+                "childCount": 3,
+                "style": "s9",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 705,
+                      "y": 7435,
+                      "pageX": 705,
+                      "pageY": 7435,
+                      "w": 30,
+                      "h": 30
+                    },
+                    "childCount": 4,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 709,
+                          "y": 7444,
+                          "pageX": 709,
+                          "pageY": 7444,
+                          "w": 16,
+                          "h": 13
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 725,
+                          "y": 7447,
+                          "pageX": 725,
+                          "pageY": 7447,
+                          "w": 6,
+                          "h": 5
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "circle",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 712,
+                          "y": 7455,
+                          "pageX": 712,
+                          "pageY": 7455,
+                          "w": 4,
+                          "h": 4
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "circle",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 725,
+                          "y": 7455,
+                          "pageX": 725,
+                          "pageY": 7455,
+                          "w": 4,
+                          "h": 4
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h4",
+                    "classes": null,
+                    "text": "Handcrafted to Order",
+                    "rect": {
+                      "x": 606,
+                      "y": 7485,
+                      "pageX": 606,
+                      "pageY": 7485,
+                      "w": 227,
+                      "h": 22
+                    },
+                    "childCount": 0,
+                    "style": "s10",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": null,
+                    "text": "Made to order in 10–15 days",
+                    "rect": {
+                      "x": 606,
+                      "y": 7513,
+                      "pageX": 606,
+                      "pageY": 7513,
+                      "w": 227,
+                      "h": 19
+                    },
+                    "childCount": 0,
+                    "style": "s11",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "value",
+                "text": null,
+                "rect": {
+                  "x": 858,
+                  "y": 7435,
+                  "pageX": 858,
+                  "pageY": 7435,
+                  "w": 227,
+                  "h": 97
+                },
+                "childCount": 3,
+                "style": "s9",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 956,
+                      "y": 7435,
+                      "pageX": 956,
+                      "pageY": 7435,
+                      "w": 30,
+                      "h": 30
+                    },
+                    "childCount": 2,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 960,
+                          "y": 7439,
+                          "pageX": 960,
+                          "pageY": 7439,
+                          "w": 23,
+                          "h": 23
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 960,
+                          "y": 7440,
+                          "pageX": 960,
+                          "pageY": 7440,
+                          "w": 6,
+                          "h": 6
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h4",
+                    "classes": null,
+                    "text": "Easy Returns",
+                    "rect": {
+                      "x": 858,
+                      "y": 7485,
+                      "pageX": 858,
+                      "pageY": 7485,
+                      "w": 227,
+                      "h": 22
+                    },
+                    "childCount": 0,
+                    "style": "s10",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": null,
+                    "text": "24-hour returns & exchange",
+                    "rect": {
+                      "x": 858,
+                      "y": 7513,
+                      "pageX": 858,
+                      "pageY": 7513,
+                      "w": 227,
+                      "h": 19
+                    },
+                    "childCount": 0,
+                    "style": "s11",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "value",
+                "text": null,
+                "rect": {
+                  "x": 1109,
+                  "y": 7435,
+                  "pageX": 1109,
+                  "pageY": 7435,
+                  "w": 227,
+                  "h": 97
+                },
+                "childCount": 3,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 1207,
+                      "y": 7435,
+                      "pageX": 1207,
+                      "pageY": 7435,
+                      "w": 30,
+                      "h": 30
+                    },
+                    "childCount": 2,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 1212,
+                          "y": 7439,
+                          "pageX": 1212,
+                          "pageY": 7439,
+                          "w": 20,
+                          "h": 23
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 1219,
+                          "y": 7447,
+                          "pageX": 1219,
+                          "pageY": 7447,
+                          "w": 8,
+                          "h": 5
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h4",
+                    "classes": null,
+                    "text": "Secure Checkout",
+                    "rect": {
+                      "x": 1109,
+                      "y": 7485,
+                      "pageX": 1109,
+                      "pageY": 7485,
+                      "w": 227,
+                      "h": 22
+                    },
+                    "childCount": 0,
+                    "style": "s7",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": null,
+                    "text": "UPI, cards & COD",
+                    "rect": {
+                      "x": 1109,
+                      "y": 7513,
+                      "pageX": 1109,
+                      "pageY": 7513,
+                      "w": 227,
+                      "h": 19
+                    },
+                    "childCount": 0,
+                    "style": "s8",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "240.719px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "paddingRight": "64px",
+      "paddingLeft": "64px",
+      "marginRight": "40px",
+      "marginLeft": "40px",
+      "width": "1360px",
+      "height": "240.719px",
+      "maxWidth": "1360px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 28)",
+      "transition": "opacity 1s cubic-bezier(0.2, 0.7, 0.2, 1), transform 1s cubic-bezier(0.2, 0.7, 0.2, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "72px",
+      "paddingBottom": "72px",
+      "width": "1232px",
+      "height": "240.719px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "24px",
+      "rowGap": "24px",
+      "columnGap": "24px",
+      "gridTemplateColumns": "227.188px 227.203px 227.203px 227.203px 227.188px",
+      "gridTemplateRows": "96.7188px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "227.188px",
+      "height": "96.7188px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "14px",
+      "width": "30px",
+      "height": "30px",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "fontSize": "18.88px",
+      "fontWeight": "500",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "6px",
+      "width": "227.188px",
+      "height": "22px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "fontSize": "12.48px",
+      "lineHeight": "18.72px",
+      "letterSpacing": "0.2496px",
+      "color": "rgb(128, 112, 100)",
+      "backgroundPosition": "0% 0%",
+      "width": "227.188px",
+      "height": "18.7188px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(128, 112, 100)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "227.203px",
+      "height": "96.7188px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "18.88px",
+      "fontWeight": "500",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "6px",
+      "width": "227.203px",
+      "height": "22px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "fontSize": "12.48px",
+      "lineHeight": "18.72px",
+      "letterSpacing": "0.2496px",
+      "color": "rgb(128, 112, 100)",
+      "backgroundPosition": "0% 0%",
+      "width": "227.203px",
+      "height": "18.7188px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(128, 112, 100)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

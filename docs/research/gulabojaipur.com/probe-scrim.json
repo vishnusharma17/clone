@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "selectors": [
+    "div#scrim"
+  ],
+  "generatedAt": "2026-09-02T08:46:43.196Z",
+  "results": {
+    "phone": {
+      "div#scrim": {
+        "_height": "844px",
+        "_width": "390px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "390px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "ipad": {
+      "div#scrim": {
+        "_height": "1024px",
+        "_width": "768px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "768px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "pc": {
+      "div#scrim": {
+        "_height": "900px",
+        "_width": "1440px",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "1440px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    }
+  }
+}

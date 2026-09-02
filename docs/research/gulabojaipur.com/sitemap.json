@@ -1,0 +1,281 @@
+{
+  "origin": "https://www.gulabojaipur.com",
+  "startUrl": "https://www.gulabojaipur.com/",
+  "generatedAt": "2026-09-02T07:24:45.153Z",
+  "totalDiscovered": 145,
+  "capped": true,
+  "pages": [
+    {
+      "url": "https://www.gulabojaipur.com",
+      "route": "/",
+      "source": "start",
+      "text": ""
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/new-arrivals",
+      "route": "/collections/new-arrivals",
+      "source": "nav",
+      "text": "New In"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/ready-to-ship",
+      "route": "/collections/ready-to-ship",
+      "source": "nav",
+      "text": "Ready to Ship Express"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/women",
+      "route": "/collections/women",
+      "source": "nav",
+      "text": "Women ▾"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/anarkalis",
+      "route": "/collections/anarkalis",
+      "source": "nav",
+      "text": "Anarkali Sets"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/kurta-set",
+      "route": "/collections/kurta-set",
+      "source": "nav",
+      "text": "Kurta Sets"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/straight-sets",
+      "route": "/collections/straight-sets",
+      "source": "nav",
+      "text": "Straight Sets"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/co-ords",
+      "route": "/collections/co-ords",
+      "source": "nav",
+      "text": "Co-ord Sets"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/anarkali-1",
+      "route": "/collections/anarkali-1",
+      "source": "nav",
+      "text": "Suits"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/dresses",
+      "route": "/collections/dresses",
+      "source": "nav",
+      "text": "Dresses"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/saree",
+      "route": "/collections/saree",
+      "source": "nav",
+      "text": "Sarees"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/xl-above",
+      "route": "/collections/xl-above",
+      "source": "nav",
+      "text": "The Curve Edit XL & above"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/cotton",
+      "route": "/collections/cotton",
+      "source": "nav",
+      "text": "Cotton"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/organza",
+      "route": "/collections/organza",
+      "source": "nav",
+      "text": "Organza"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/doriya",
+      "route": "/collections/doriya",
+      "source": "nav",
+      "text": "Doriya"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/chanderi",
+      "route": "/collections/chanderi",
+      "source": "nav",
+      "text": "Chanderi Silk"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/raw-silk",
+      "route": "/collections/raw-silk",
+      "source": "nav",
+      "text": "Raw Silk"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/block-print",
+      "route": "/collections/block-print",
+      "source": "nav",
+      "text": "Block Print"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/gota-patti",
+      "route": "/collections/gota-patti",
+      "source": "nav",
+      "text": "Gota Patti"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/desert-rose",
+      "route": "/collections/desert-rose",
+      "source": "nav",
+      "text": "Desert Rose"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/nazara",
+      "route": "/collections/nazara",
+      "source": "nav",
+      "text": "Nazara"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/raanibagh",
+      "route": "/collections/raanibagh",
+      "source": "nav",
+      "text": "Raanibagh"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/musalsal",
+      "route": "/collections/musalsal",
+      "source": "nav",
+      "text": "Musalsal"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/gulposh",
+      "route": "/collections/gulposh",
+      "source": "nav",
+      "text": "Gulposh"
+    },
+    {
+      "url": "https://www.gulabojaipur.com/collections/jugni",
+      "route": "/collections/jugni",
+      "source": "nav",
+      "text": "Jugni"
+    }
+  ],
+  "overflow": [
+    "https://www.gulabojaipur.com/collections/mashoor",
+    "https://www.gulabojaipur.com/collections",
+    "https://www.gulabojaipur.com/collections/kids-wear-barfi",
+    "https://www.gulabojaipur.com/collections/girls-barfi-jaipur",
+    "https://www.gulabojaipur.com/collections/boys-barfi-jaipur",
+    "https://www.gulabojaipur.com/collections/barfi-jaipur",
+    "https://www.gulabojaipur.com/collections/wedding",
+    "https://www.gulabojaipur.com/collections/haldi",
+    "https://www.gulabojaipur.com/collections/mehendi",
+    "https://www.gulabojaipur.com/collections/sangeet-oclock",
+    "https://www.gulabojaipur.com/collections/shaadi",
+    "https://www.gulabojaipur.com/collections/reception",
+    "https://www.gulabojaipur.com/collections/karwachauth-edit",
+    "https://www.gulabojaipur.com/collections/brides",
+    "https://www.gulabojaipur.com/collections/bride-maids",
+    "https://www.gulabojaipur.com/collections/trousseau",
+    "https://www.gulabojaipur.com/collections/summer-wedding",
+    "https://www.gulabojaipur.com/collections/lehenga-set",
+    "https://www.gulabojaipur.com/collections/sharara-set",
+    "https://www.gulabojaipur.com/collections/accessories",
+    "https://www.gulabojaipur.com/collections/earrings",
+    "https://www.gulabojaipur.com/collections/necklaces",
+    "https://www.gulabojaipur.com/collections/bangles",
+    "https://www.gulabojaipur.com/collections/rings",
+    "https://www.gulabojaipur.com/collections/dupatta",
+    "https://www.gulabojaipur.com/collections/silver-jewellery",
+    "https://www.gulabojaipur.com/collections/fashion-jewellery",
+    "https://www.gulabojaipur.com/collections/jewellery",
+    "https://www.gulabojaipur.com/collections/bedsheet",
+    "https://www.gulabojaipur.com/collections/dinner-set",
+    "https://www.gulabojaipur.com/collections/home-decor",
+    "https://www.gulabojaipur.com/collections/sale-2",
+    "https://www.gulabojaipur.com/products/harqat-red-straight-set",
+    "https://www.gulabojaipur.com/products/harqat-green-straight-set",
+    "https://www.gulabojaipur.com/products/khalak-brown-co-ord-set",
+    "https://www.gulabojaipur.com/products/alia-blue-straight-set",
+    "https://www.gulabojaipur.com/products/alia-peach-straight-set",
+    "https://www.gulabojaipur.com/products/dua-black-anarkali-set",
+    "https://www.gulabojaipur.com/products/niha-cream-straight-set",
+    "https://www.gulabojaipur.com/products/niha-light-pink-straight-kurta-set",
+    "https://www.gulabojaipur.com/collections/celebrities-in-gulabo-jaipur",
+    "https://www.gulabojaipur.com/collections/shark-tanks-favourite",
+    "https://www.gulabojaipur.com/account",
+    "https://www.gulabojaipur.com/cart",
+    "https://www.gulabojaipur.com/collections/end-of-season-sale",
+    "https://www.gulabojaipur.com/pages/our-story",
+    "https://www.gulabojaipur.com/pages/the-craft",
+    "https://www.gulabojaipur.com/blogs/journal",
+    "https://www.gulabojaipur.com/pages/stores",
+    "https://www.gulabojaipur.com/pages/track-order",
+    "https://www.gulabojaipur.com/pages/shipping",
+    "https://www.gulabojaipur.com/pages/returns",
+    "https://www.gulabojaipur.com/pages/size-guide",
+    "https://www.gulabojaipur.com/pages/faqs",
+    "https://www.gulabojaipur.com/pages/contact-us",
+    "https://www.gulabojaipur.com/policies/privacy-policy",
+    "https://www.gulabojaipur.com/policies/terms-of-service",
+    "https://www.gulabojaipur.com/policies/refund-policy",
+    "https://www.gulabojaipur.com/sitemap_products_1.xml?from=6842294796442&amp;to=9784896422129",
+    "https://www.gulabojaipur.com/sitemap_pages_1.xml?from=87520837786&amp;to=132913398001",
+    "https://www.gulabojaipur.com/sitemap_collections_1.xml?from=271398043802&amp;to=489431302385",
+    "https://www.gulabojaipur.com/agents.md",
+    "https://www.gulabojaipur.com/blogs/uncategorized",
+    "https://www.gulabojaipur.com/blogs/uncategorized-1",
+    "https://www.gulabojaipur.com/blogs/blog",
+    "https://www.gulabojaipur.com/blogs/valentines-week-special",
+    "https://www.gulabojaipur.com/blogs/uncategorized/welcome-gulabo-jaipur",
+    "https://www.gulabojaipur.com/blogs/uncategorized-1/welcome-gulabo-jaipur",
+    "https://www.gulabojaipur.com/blogs/blog/top-15-wedding-outfits",
+    "https://www.gulabojaipur.com/blogs/blog/best-of-sharara-sets",
+    "https://www.gulabojaipur.com/blogs/blog/best-cotton-suit-sets-you-must-know-in-2024",
+    "https://www.gulabojaipur.com/blogs/blog/co-ords-you-must-try-this-christmas",
+    "https://www.gulabojaipur.com/blogs/blog/fashion-inspiring-winter-edition",
+    "https://www.gulabojaipur.com/blogs/blog/valentines-week-special",
+    "https://www.gulabojaipur.com/blogs/blog/superwoman-day-empowering-women-with-the-best-picks-from-the-new-collection-meraki",
+    "https://www.gulabojaipur.com/blogs/blog/gulabo-jaipur-bringing-vibrant-rajasthani-heritage-to-shark-tank-india",
+    "https://www.gulabojaipur.com/blogs/blog/holi-hai-explore-our-vibrant-holi-collection",
+    "https://www.gulabojaipur.com/blogs/blog/best-colour-combination-for-sarees",
+    "https://www.gulabojaipur.com/blogs/blog/pre-wedding-outfit-ideas",
+    "https://www.gulabojaipur.com/blogs/blog/types-of-ladies-suits",
+    "https://www.gulabojaipur.com/blogs/blog/ethnic-wear-for-eid",
+    "https://www.gulabojaipur.com/blogs/blog/everything-you-need-to-know-about-types-of-saree-fabric",
+    "https://www.gulabojaipur.com/blogs/blog/guide-to-picking-the-best-kurta-design-for-women",
+    "https://www.gulabojaipur.com/blogs/blog/cotton-anarkali-suits-the-ultimate-style-guide-for-indian-women",
+    "https://www.gulabojaipur.com/blogs/blog/jaipur-kurta-sets-for-women-a-complete-buying-guide",
+    "https://www.gulabojaipur.com/blogs/blog/gulabo-jaipur-the-story-behind-jaipurs-most-loved-ethnic-wear-brand",
+    "https://www.gulabojaipur.com/products/saloni-teal-green-embroidered-lehenga-set",
+    "https://www.gulabojaipur.com/products/black-peacock-jaal-embroidered-lehenga-set",
+    "https://www.gulabojaipur.com/products/pink-full-sleeve-boota-coord-set",
+    "https://www.gulabojaipur.com/products/black-full-sleeve-boota-coord-set",
+    "https://www.gulabojaipur.com/products/pink-sleeveless-boota-coord-set",
+    "https://www.gulabojaipur.com/products/black-sleeveless-boota-coord-set",
+    "https://www.gulabojaipur.com/products/yellow-printed-kurta-pant-set",
+    "https://www.gulabojaipur.com/products/pink-printed-kurta-pant-set",
+    "https://www.gulabojaipur.com/products/grey-blue-floral-coord-set",
+    "https://www.gulabojaipur.com/products/rust-printed-kurta-pant-set",
+    "https://www.gulabojaipur.com/collections/festive-affairs",
+    "https://www.gulabojaipur.com/products/tie-die-bandhani-cotton-ada-sky-mudal-kurta-set-with-doriya-dupatta",
+    "https://www.gulabojaipur.com/products/shaila-indigo-set",
+    "https://www.gulabojaipur.com/products/hairat-yellow-anarkali-set",
+    "https://www.gulabojaipur.com/products/hairat-yellow-anarkali",
+    "https://www.gulabojaipur.com/products/charul-green-set",
+    "https://www.gulabojaipur.com/products/naaz-emerald-set",
+    "https://www.gulabojaipur.com/products/shriya-peach-cotton-kurta-set-with-organza-dupatta",
+    "https://www.gulabojaipur.com/products/shriya-pink-cotton-kurta-set-with-organza-dupatta",
+    "https://www.gulabojaipur.com/products/anjuli-green-cotton-straight-kurta-set-with-doriya-dupatta",
+    "https://www.gulabojaipur.com/products/alwari-anarkali-set",
+    "https://www.gulabojaipur.com/collections/best-sellers",
+    "https://www.gulabojaipur.com/products/kashmiri-faren-abaya-white-block-print-voil-kurta-set-with-dupatta",
+    "https://www.gulabojaipur.com/products/qala-set-peach",
+    "https://www.gulabojaipur.com/products/raatrani-black-set",
+    "https://www.gulabojaipur.com/products/shamita-shetty-in-bhandej-georgette-naaz-green-straight-kurta-set-with-dupatta",
+    "https://www.gulabojaipur.com/products/shri-off-white-chanderi-anarkali-set-with-organza-dupatt",
+    "https://www.gulabojaipur.com/products/kashmiri-faren-abaya-black-voil-kurta-set-with-dupatta",
+    "https://www.gulabojaipur.com/products/kareena-kapoor-khan-in-glorious-white-kalidar-set",
+    "https://www.gulabojaipur.com/products/red-anarkali-set",
+    "https://www.gulabojaipur.com/products/malavika-mohanan-in-hairat-green-anarkali-set",
+    "https://www.gulabojaipur.com/products/janhvi-kapoor-in-hairat-yellow-embroidered-cotton-straight-kurta-set-with-organza-dupatta",
+    "https://www.gulabojaipur.com/products/abaya-white-kurta",
+    "https://www.gulabojaipur.com/products/shamita-shetty-in-bhandej-georgette-naaz-green"
+  ]
+}

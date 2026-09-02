@@ -1,0 +1,9 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/new-arrivals",
+  "selector": "article.card",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "capturedAt": 1788338262228
+}

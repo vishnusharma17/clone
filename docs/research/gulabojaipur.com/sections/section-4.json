@@ -1,0 +1,292 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/saree",
+  "generatedAt": "2026-09-02T07:52:09.839Z",
+  "viewport": "pc",
+  "selector": "section.col-banner",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "section",
+    "classes": "col-banner col-saree",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 102,
+      "pageX": 0,
+      "pageY": 102,
+      "w": 1440,
+      "h": 344
+    },
+    "pseudo": {
+      "::after": {
+        "content": "\"\"",
+        "backgroundImage": "linear-gradient(rgba(20, 12, 10, 0.52), rgba(20, 12, 10, 0.4))",
+        "position": "absolute",
+        "opacity": "1",
+        "borderColor": "rgb(42, 32, 27)",
+        "zIndex": "1",
+        "transition": "all"
+      }
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "inner",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 210,
+          "pageX": 0,
+          "pageY": 210,
+          "w": 1440,
+          "h": 184
+        },
+        "childCount": 4,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "crumb",
+            "text": "/ Saree",
+            "rect": {
+              "x": 0,
+              "y": 210,
+              "pageX": 0,
+              "pageY": 210,
+              "w": 1440,
+              "h": 15
+            },
+            "childCount": 1,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "a",
+                "classes": null,
+                "text": "Home",
+                "href": "/",
+                "rect": {
+                  "x": 670,
+                  "y": 210,
+                  "pageX": 670,
+                  "pageY": 210,
+                  "w": 40,
+                  "h": 15
+                },
+                "childCount": 0,
+                "style": "s4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "h1",
+            "classes": null,
+            "text": "Saree",
+            "rect": {
+              "x": 0,
+              "y": 241,
+              "pageX": 0,
+              "pageY": 241,
+              "w": 1440,
+              "h": 74
+            },
+            "childCount": 0,
+            "style": "s5",
+            "children": []
+          },
+          {
+            "tag": "p",
+            "classes": null,
+            "text": "Celebrating Timeless Elegance: Sarees by Gulabo Jaipur Sarees, the epitome of grace and versatility, hold a...",
+            "rect": {
+              "x": 440,
+              "y": 330,
+              "pageX": 440,
+              "pageY": 330,
+              "w": 560,
+              "h": 46
+            },
+            "childCount": 0,
+            "style": "s6",
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "cb-rule",
+            "text": null,
+            "rect": {
+              "x": 693,
+              "y": 392,
+              "pageX": 693,
+              "pageY": 392,
+              "w": 54,
+              "h": 2
+            },
+            "childCount": 0,
+            "style": "s7",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "center",
+      "backgroundColor": "rgb(243, 232, 220)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "108px",
+      "paddingBottom": "52px",
+      "width": "1440px",
+      "height": "343.594px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "183.594px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "zIndex": "2",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "10.56px",
+      "letterSpacing": "2.5344px",
+      "color": "rgb(128, 112, 100)",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "16px",
+      "width": "1440px",
+      "height": "15px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(128, 112, 100)",
+      "opacity": "0.86",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(128, 112, 100)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "fontSize": "73.6px",
+      "fontWeight": "400",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "lineHeight": "73.6px",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "73.5938px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "color": "rgb(128, 112, 100)",
+      "backgroundPosition": "0% 0%",
+      "marginTop": "15px",
+      "marginRight": "440px",
+      "marginLeft": "440px",
+      "width": "560px",
+      "height": "46px",
+      "maxWidth": "560px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(128, 112, 100)",
+      "opacity": "0.92",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundColor": "rgb(174, 63, 88)",
+      "backgroundPosition": "0% 0%",
+      "marginTop": "16px",
+      "marginRight": "693px",
+      "marginLeft": "693px",
+      "width": "54px",
+      "height": "2px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

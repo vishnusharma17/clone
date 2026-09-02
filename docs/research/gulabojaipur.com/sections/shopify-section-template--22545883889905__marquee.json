@@ -1,0 +1,539 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "generatedAt": "2026-09-02T07:27:40.773Z",
+  "viewport": "pc",
+  "selector": "div#shopify-section-template--22545883889905__marquee",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "shopify-section",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 1002,
+      "pageX": 0,
+      "pageY": 1002,
+      "w": 1440,
+      "h": 51
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "marquee",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 1002,
+          "pageX": 0,
+          "pageY": 1002,
+          "w": 1440,
+          "h": 51
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "marquee-track",
+            "text": null,
+            "rect": {
+              "x": -475,
+              "y": 1021,
+              "pageX": -475,
+              "pageY": 1021,
+              "w": 2341,
+              "h": 16
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": -475,
+                  "y": 1021,
+                  "pageX": -475,
+                  "pageY": 1021,
+                  "w": 1146,
+                  "h": 16
+                },
+                "childCount": 8,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Hand-Block Printed",
+                    "rect": {
+                      "x": -475,
+                      "y": 1021,
+                      "pageX": -475,
+                      "pageY": 1021,
+                      "w": 176,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s5",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": -251,
+                      "y": 1021,
+                      "pageX": -251,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Slow-Made in Jaipur",
+                    "rect": {
+                      "x": -191,
+                      "y": 1021,
+                      "pageX": -191,
+                      "pageY": 1021,
+                      "w": 179,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s7",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 36,
+                      "y": 1021,
+                      "pageX": 36,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Pure Natural Fabrics",
+                    "rect": {
+                      "x": 97,
+                      "y": 1021,
+                      "pageX": 97,
+                      "pageY": 1021,
+                      "w": 188,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s8",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 332,
+                      "y": 1021,
+                      "pageX": 332,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Worn Across the World",
+                    "rect": {
+                      "x": 393,
+                      "y": 1021,
+                      "pageX": 393,
+                      "pageY": 1021,
+                      "w": 218,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s9",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 659,
+                      "y": 1021,
+                      "pageX": 659,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 719,
+                  "y": 1021,
+                  "pageX": 719,
+                  "pageY": 1021,
+                  "w": 1146,
+                  "h": 16
+                },
+                "childCount": 8,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Hand-Block Printed",
+                    "rect": {
+                      "x": 719,
+                      "y": 1021,
+                      "pageX": 719,
+                      "pageY": 1021,
+                      "w": 176,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s5",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 943,
+                      "y": 1021,
+                      "pageX": 943,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Slow-Made in Jaipur",
+                    "rect": {
+                      "x": 1004,
+                      "y": 1021,
+                      "pageX": 1004,
+                      "pageY": 1021,
+                      "w": 179,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s7",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 1230,
+                      "y": 1021,
+                      "pageX": 1230,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Pure Natural Fabrics",
+                    "rect": {
+                      "x": 1291,
+                      "y": 1021,
+                      "pageX": 1291,
+                      "pageY": 1021,
+                      "w": 188,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s8",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 1527,
+                      "y": 1021,
+                      "pageX": 1527,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  },
+                  {
+                    "tag": "i",
+                    "classes": null,
+                    "text": "Worn Across the World",
+                    "rect": {
+                      "x": 1587,
+                      "y": 1021,
+                      "pageX": 1587,
+                      "pageY": 1021,
+                      "w": 218,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s9",
+                    "children": []
+                  },
+                  {
+                    "tag": "b",
+                    "classes": "dot",
+                    "text": "✦",
+                    "rect": {
+                      "x": 1853,
+                      "y": 1021,
+                      "pageX": 1853,
+                      "pageY": 1021,
+                      "w": 13,
+                      "h": 16
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "51px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "color": "rgb(251, 246, 239)",
+      "backgroundColor": "rgb(110, 36, 51)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "14px",
+      "paddingBottom": "14px",
+      "width": "1440px",
+      "height": "51px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "11.52px",
+      "letterSpacing": "3.456px",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "width": "2340.94px",
+      "height": "16px",
+      "display": "inline-flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "48px",
+      "rowGap": "48px",
+      "columnGap": "48px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, -475.173, 0)",
+      "transition": "all",
+      "animation": "28s linear infinite slide",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "1146.47px",
+      "height": "16px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "48px",
+      "rowGap": "48px",
+      "columnGap": "48px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "175.688px",
+      "height": "16px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "fontWeight": "400",
+      "color": "rgb(203, 170, 114)",
+      "backgroundPosition": "0% 0%",
+      "width": "12.5938px",
+      "height": "16px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(203, 170, 114)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "178.859px",
+      "height": "16px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "width": "187.703px",
+      "height": "16px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "217.844px",
+      "height": "16px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

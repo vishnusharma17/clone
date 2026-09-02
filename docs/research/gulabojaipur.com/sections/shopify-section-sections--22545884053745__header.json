@@ -1,0 +1,3101 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/saree",
+  "generatedAt": "2026-09-02T07:52:09.839Z",
+  "viewport": "pc",
+  "selector": "div#shopify-section-sections--22545884053745__header",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "shopify-section shopify-section-group-header-group",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "w": 1440,
+      "h": 102
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "site-top",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 1440,
+          "h": 102
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "announce",
+            "text": "Free Shipping in India  ·  Made to Order – Handcrafted in Jaipur  ·  Express Shipping Available",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "pageX": 0,
+              "pageY": 0,
+              "w": 1440,
+              "h": 34
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "header",
+            "classes": "head solid",
+            "text": null,
+            "rect": {
+              "x": 0,
+              "y": 34,
+              "pageX": 0,
+              "pageY": 34,
+              "w": 1440,
+              "h": 68
+            },
+            "childCount": 1,
+            "style": "s4",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "wrap head-row",
+                "text": null,
+                "rect": {
+                  "x": 40,
+                  "y": 48,
+                  "pageX": 40,
+                  "pageY": 48,
+                  "w": 1360,
+                  "h": 40
+                },
+                "childCount": 4,
+                "style": "s5",
+                "children": [
+                  {
+                    "tag": "button",
+                    "classes": "burger",
+                    "text": null,
+                    "ariaLabel": "Menu",
+                    "rect": {
+                      "x": 0,
+                      "y": 0,
+                      "pageX": 0,
+                      "pageY": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "childCount": 3,
+                    "style": "s6",
+                    "children": [
+                      {
+                        "tag": "span",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s7",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s7",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s7",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "a",
+                    "classes": "brand",
+                    "text": null,
+                    "href": "/",
+                    "rect": {
+                      "x": 104,
+                      "y": 48,
+                      "pageX": 104,
+                      "pageY": 48,
+                      "w": 221,
+                      "h": 40
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "name",
+                        "text": "GULABO",
+                        "rect": {
+                          "x": 147,
+                          "y": 48,
+                          "pageX": 147,
+                          "pageY": 48,
+                          "w": 135,
+                          "h": 24
+                        },
+                        "childCount": 0,
+                        "style": "s9",
+                        "children": []
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "sub",
+                        "text": "Jaipur",
+                        "rect": {
+                          "x": 147,
+                          "y": 75,
+                          "pageX": 147,
+                          "pageY": 75,
+                          "w": 135,
+                          "h": 13
+                        },
+                        "childCount": 0,
+                        "style": "s10",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "nav",
+                    "classes": "gnav",
+                    "text": null,
+                    "ariaLabel": "Main navigation",
+                    "rect": {
+                      "x": 349,
+                      "y": 48,
+                      "pageX": 349,
+                      "pageY": 48,
+                      "w": 903,
+                      "h": 40
+                    },
+                    "childCount": 8,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item",
+                        "text": null,
+                        "rect": {
+                          "x": 349,
+                          "y": 48,
+                          "pageX": 349,
+                          "pageY": 48,
+                          "w": 79,
+                          "h": 40
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item rts-nav",
+                        "text": null,
+                        "rect": {
+                          "x": 430,
+                          "y": 48,
+                          "pageX": 430,
+                          "pageY": 48,
+                          "w": 189,
+                          "h": 40
+                        },
+                        "childCount": 1,
+                        "style": "s13",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega",
+                        "text": null,
+                        "rect": {
+                          "x": 622,
+                          "y": 48,
+                          "pageX": 622,
+                          "pageY": 48,
+                          "w": 97,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s14",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega",
+                        "text": null,
+                        "rect": {
+                          "x": 721,
+                          "y": 48,
+                          "pageX": 721,
+                          "pageY": 48,
+                          "w": 74,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s15",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega",
+                        "text": null,
+                        "rect": {
+                          "x": 797,
+                          "y": 48,
+                          "pageX": 797,
+                          "pageY": 48,
+                          "w": 110,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s16",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega",
+                        "text": null,
+                        "rect": {
+                          "x": 909,
+                          "y": 48,
+                          "pageX": 909,
+                          "pageY": 48,
+                          "w": 136,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s17",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega hot",
+                        "text": null,
+                        "rect": {
+                          "x": 1047,
+                          "y": 48,
+                          "pageX": 1047,
+                          "pageY": 48,
+                          "w": 77,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s18",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gnav-item has-mega",
+                        "text": null,
+                        "rect": {
+                          "x": 1126,
+                          "y": 48,
+                          "pageX": 1126,
+                          "pageY": 48,
+                          "w": 126,
+                          "h": 40
+                        },
+                        "childCount": 2,
+                        "style": "s19",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "icons",
+                    "text": null,
+                    "rect": {
+                      "x": 1276,
+                      "y": 55,
+                      "pageX": 1276,
+                      "pageY": 55,
+                      "w": 140,
+                      "h": 26
+                    },
+                    "childCount": 4,
+                    "style": "s20",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": null,
+                        "href": "#",
+                        "ariaLabel": "Search",
+                        "rect": {
+                          "x": 1276,
+                          "y": 55,
+                          "pageX": 1276,
+                          "pageY": 55,
+                          "w": 20,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s21",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": null,
+                        "href": "/account",
+                        "ariaLabel": "Account",
+                        "rect": {
+                          "x": 1316,
+                          "y": 55,
+                          "pageX": 1316,
+                          "pageY": 55,
+                          "w": 20,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s21",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "a",
+                        "classes": "cart-c",
+                        "text": null,
+                        "href": "#",
+                        "ariaLabel": "Wishlist",
+                        "rect": {
+                          "x": 1356,
+                          "y": 55,
+                          "pageX": 1356,
+                          "pageY": 55,
+                          "w": 20,
+                          "h": 26
+                        },
+                        "childCount": 2,
+                        "style": "s22",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "a",
+                        "classes": "cart-c",
+                        "text": null,
+                        "href": "/cart",
+                        "ariaLabel": "Cart",
+                        "rect": {
+                          "x": 1396,
+                          "y": 55,
+                          "pageX": 1396,
+                          "pageY": 55,
+                          "w": 20,
+                          "h": 26
+                        },
+                        "childCount": 2,
+                        "style": "s22",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "gj-drawer",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": -12,
+          "pageX": 0,
+          "pageY": -12,
+          "w": 1440,
+          "h": 900
+        },
+        "childCount": 12,
+        "style": "s23",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "gj-md-top",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 6,
+              "pageX": 22,
+              "pageY": 6,
+              "w": 1396,
+              "h": 38
+            },
+            "childCount": 2,
+            "style": "s24",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "name",
+                "text": "GULABO",
+                "rect": {
+                  "x": 22,
+                  "y": 12,
+                  "pageX": 22,
+                  "pageY": 12,
+                  "w": 107,
+                  "h": 27
+                },
+                "childCount": 0,
+                "style": "s25",
+                "children": []
+              },
+              {
+                "tag": "button",
+                "classes": "mclose",
+                "text": "×",
+                "ariaLabel": "Close",
+                "rect": {
+                  "x": 1380,
+                  "y": 6,
+                  "pageX": 1380,
+                  "pageY": 6,
+                  "w": 38,
+                  "h": 38
+                },
+                "childCount": 0,
+                "style": "s26",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 56,
+              "pageX": 22,
+              "pageY": 56,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": null,
+                "text": "New In",
+                "href": "/collections/new-arrivals",
+                "rect": {
+                  "x": 22,
+                  "y": 56,
+                  "pageX": 22,
+                  "pageY": 56,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s28",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 114,
+              "pageX": 22,
+              "pageY": 114,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": "hot",
+                "text": "Ready to Ship · Express",
+                "href": "/collections/ready-to-ship",
+                "rect": {
+                  "x": 22,
+                  "y": 114,
+                  "pageX": 22,
+                  "pageY": 114,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s29",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 172,
+              "pageX": 22,
+              "pageY": 172,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 2,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "button",
+                "classes": null,
+                "text": "Women",
+                "rect": {
+                  "x": 22,
+                  "y": 172,
+                  "pageX": 22,
+                  "pageY": 172,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 1,
+                "style": "s30",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": "pm",
+                    "text": "+",
+                    "rect": {
+                      "x": 1408,
+                      "y": 189,
+                      "pageX": 1408,
+                      "pageY": 189,
+                      "w": 8,
+                      "h": 24
+                    },
+                    "childCount": 0,
+                    "style": "s31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "gj-md-sub",
+                "text": null,
+                "rect": {
+                  "x": 22,
+                  "y": 229,
+                  "pageX": 22,
+                  "pageY": 229,
+                  "w": 1396,
+                  "h": 0
+                },
+                "childCount": 1,
+                "style": "s32",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "gj-md-group",
+                    "text": null,
+                    "rect": {
+                      "x": 22,
+                      "y": 229,
+                      "pageX": 22,
+                      "pageY": 229,
+                      "w": 1396,
+                      "h": 862
+                    },
+                    "childCount": 24,
+                    "style": "s33",
+                    "children": [
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Type",
+                        "rect": {
+                          "x": 22,
+                          "y": 241,
+                          "pageX": 22,
+                          "pageY": 241,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Anarkali Sets",
+                        "href": "/collections/anarkalis",
+                        "rect": {
+                          "x": 22,
+                          "y": 261,
+                          "pageX": 22,
+                          "pageY": 261,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Kurta Sets",
+                        "href": "/collections/kurta-set",
+                        "rect": {
+                          "x": 22,
+                          "y": 297,
+                          "pageX": 22,
+                          "pageY": 297,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Straight Sets",
+                        "href": "/collections/straight-sets",
+                        "rect": {
+                          "x": 22,
+                          "y": 333,
+                          "pageX": 22,
+                          "pageY": 333,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Co-ord Sets",
+                        "href": "/collections/co-ords",
+                        "rect": {
+                          "x": 22,
+                          "y": 369,
+                          "pageX": 22,
+                          "pageY": 369,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Suits",
+                        "href": "/collections/anarkali-1",
+                        "rect": {
+                          "x": 22,
+                          "y": 405,
+                          "pageX": 22,
+                          "pageY": 405,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Dresses",
+                        "href": "/collections/dresses",
+                        "rect": {
+                          "x": 22,
+                          "y": 441,
+                          "pageX": 22,
+                          "pageY": 441,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "The Curve Edit (XL & above)",
+                        "href": "/collections/xl-above",
+                        "rect": {
+                          "x": 22,
+                          "y": 477,
+                          "pageX": 22,
+                          "pageY": 477,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Fabrics & Crafts",
+                        "rect": {
+                          "x": 22,
+                          "y": 523,
+                          "pageX": 22,
+                          "pageY": 523,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Cotton",
+                        "href": "/collections/cotton",
+                        "rect": {
+                          "x": 22,
+                          "y": 543,
+                          "pageX": 22,
+                          "pageY": 543,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Organza",
+                        "href": "/collections/organza",
+                        "rect": {
+                          "x": 22,
+                          "y": 579,
+                          "pageX": 22,
+                          "pageY": 579,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Doriya",
+                        "href": "/collections/doriya",
+                        "rect": {
+                          "x": 22,
+                          "y": 615,
+                          "pageX": 22,
+                          "pageY": 615,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Chanderi Silk",
+                        "href": "/collections/chanderi",
+                        "rect": {
+                          "x": 22,
+                          "y": 651,
+                          "pageX": 22,
+                          "pageY": 651,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Block Print",
+                        "href": "/collections/block-print",
+                        "rect": {
+                          "x": 22,
+                          "y": 687,
+                          "pageX": 22,
+                          "pageY": 687,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Gota Patti",
+                        "href": "/collections/gota-patti",
+                        "rect": {
+                          "x": 22,
+                          "y": 723,
+                          "pageX": 22,
+                          "pageY": 723,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Collection",
+                        "rect": {
+                          "x": 22,
+                          "y": 769,
+                          "pageX": 22,
+                          "pageY": 769,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Desert Rose",
+                        "href": "/collections/desert-rose",
+                        "rect": {
+                          "x": 22,
+                          "y": 789,
+                          "pageX": 22,
+                          "pageY": 789,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Nazara",
+                        "href": "/collections/nazara",
+                        "rect": {
+                          "x": 22,
+                          "y": 825,
+                          "pageX": 22,
+                          "pageY": 825,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Raanibagh",
+                        "href": "/collections/raanibagh",
+                        "rect": {
+                          "x": 22,
+                          "y": 861,
+                          "pageX": 22,
+                          "pageY": 861,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Musalsal",
+                        "href": "/collections/musalsal",
+                        "rect": {
+                          "x": 22,
+                          "y": 897,
+                          "pageX": 22,
+                          "pageY": 897,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Gulposh",
+                        "href": "/collections/gulposh",
+                        "rect": {
+                          "x": 22,
+                          "y": 933,
+                          "pageX": 22,
+                          "pageY": 933,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Jugni",
+                        "href": "/collections/jugni",
+                        "rect": {
+                          "x": 22,
+                          "y": 969,
+                          "pageX": 22,
+                          "pageY": 969,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Mashoor",
+                        "href": "/collections/mashoor",
+                        "rect": {
+                          "x": 22,
+                          "y": 1005,
+                          "pageX": 22,
+                          "pageY": 1005,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "View all Women →",
+                        "href": "/collections/women",
+                        "rect": {
+                          "x": 22,
+                          "y": 1041,
+                          "pageX": 22,
+                          "pageY": 1041,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s36",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 230,
+              "pageX": 22,
+              "pageY": 230,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 2,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "button",
+                "classes": null,
+                "text": "Kids",
+                "rect": {
+                  "x": 22,
+                  "y": 230,
+                  "pageX": 22,
+                  "pageY": 230,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 1,
+                "style": "s30",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": "pm",
+                    "text": "+",
+                    "rect": {
+                      "x": 1408,
+                      "y": 247,
+                      "pageX": 1408,
+                      "pageY": 247,
+                      "w": 8,
+                      "h": 24
+                    },
+                    "childCount": 0,
+                    "style": "s31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "gj-md-sub",
+                "text": null,
+                "rect": {
+                  "x": 22,
+                  "y": 287,
+                  "pageX": 22,
+                  "pageY": 287,
+                  "w": 1396,
+                  "h": 0
+                },
+                "childCount": 1,
+                "style": "s32",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "gj-md-group",
+                    "text": null,
+                    "rect": {
+                      "x": 22,
+                      "y": 287,
+                      "pageX": 22,
+                      "pageY": 287,
+                      "w": 1396,
+                      "h": 220
+                    },
+                    "childCount": 6,
+                    "style": "s37",
+                    "children": [
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Type",
+                        "rect": {
+                          "x": 22,
+                          "y": 299,
+                          "pageX": 22,
+                          "pageY": 299,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Girls",
+                        "href": "/collections/girls-barfi-jaipur",
+                        "rect": {
+                          "x": 22,
+                          "y": 319,
+                          "pageX": 22,
+                          "pageY": 319,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Boys",
+                        "href": "/collections/boys-barfi-jaipur",
+                        "rect": {
+                          "x": 22,
+                          "y": 355,
+                          "pageX": 22,
+                          "pageY": 355,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "All Kids Wear",
+                        "href": "/collections/kids-wear-barfi",
+                        "rect": {
+                          "x": 22,
+                          "y": 391,
+                          "pageX": 22,
+                          "pageY": 391,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Collection",
+                        "rect": {
+                          "x": 22,
+                          "y": 437,
+                          "pageX": 22,
+                          "pageY": 437,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Barfi Jaipur",
+                        "href": "/collections/barfi-jaipur",
+                        "rect": {
+                          "x": 22,
+                          "y": 457,
+                          "pageX": 22,
+                          "pageY": 457,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 288,
+              "pageX": 22,
+              "pageY": 288,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 2,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "button",
+                "classes": null,
+                "text": "Wedding",
+                "rect": {
+                  "x": 22,
+                  "y": 288,
+                  "pageX": 22,
+                  "pageY": 288,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 1,
+                "style": "s30",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": "pm",
+                    "text": "+",
+                    "rect": {
+                      "x": 1408,
+                      "y": 305,
+                      "pageX": 1408,
+                      "pageY": 305,
+                      "w": 8,
+                      "h": 24
+                    },
+                    "childCount": 0,
+                    "style": "s31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "gj-md-sub",
+                "text": null,
+                "rect": {
+                  "x": 22,
+                  "y": 345,
+                  "pageX": 22,
+                  "pageY": 345,
+                  "w": 1396,
+                  "h": 0
+                },
+                "childCount": 1,
+                "style": "s32",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "gj-md-group",
+                    "text": null,
+                    "rect": {
+                      "x": 22,
+                      "y": 345,
+                      "pageX": 22,
+                      "pageY": 345,
+                      "w": 1396,
+                      "h": 610
+                    },
+                    "childCount": 17,
+                    "style": "s38",
+                    "children": [
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Moment",
+                        "rect": {
+                          "x": 22,
+                          "y": 357,
+                          "pageX": 22,
+                          "pageY": 357,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Haldi",
+                        "href": "/collections/haldi",
+                        "rect": {
+                          "x": 22,
+                          "y": 377,
+                          "pageX": 22,
+                          "pageY": 377,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Mehendi",
+                        "href": "/collections/mehendi",
+                        "rect": {
+                          "x": 22,
+                          "y": 413,
+                          "pageX": 22,
+                          "pageY": 413,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Sangeet O'Clock",
+                        "href": "/collections/sangeet-oclock",
+                        "rect": {
+                          "x": 22,
+                          "y": 449,
+                          "pageX": 22,
+                          "pageY": 449,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "The Big Day",
+                        "href": "/collections/shaadi",
+                        "rect": {
+                          "x": 22,
+                          "y": 485,
+                          "pageX": 22,
+                          "pageY": 485,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Reception",
+                        "href": "/collections/reception",
+                        "rect": {
+                          "x": 22,
+                          "y": 521,
+                          "pageX": 22,
+                          "pageY": 521,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Karwa Chauth",
+                        "href": "/collections/karwachauth-edit",
+                        "rect": {
+                          "x": 22,
+                          "y": 557,
+                          "pageX": 22,
+                          "pageY": 557,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "The Wedding Party",
+                        "rect": {
+                          "x": 22,
+                          "y": 603,
+                          "pageX": 22,
+                          "pageY": 603,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "The Bride",
+                        "href": "/collections/brides",
+                        "rect": {
+                          "x": 22,
+                          "y": 623,
+                          "pageX": 22,
+                          "pageY": 623,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Bridesmaids",
+                        "href": "/collections/bride-maids",
+                        "rect": {
+                          "x": 22,
+                          "y": 659,
+                          "pageX": 22,
+                          "pageY": 659,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Trousseau",
+                        "href": "/collections/trousseau",
+                        "rect": {
+                          "x": 22,
+                          "y": 695,
+                          "pageX": 22,
+                          "pageY": 695,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Summer Wedding",
+                        "href": "/collections/summer-wedding",
+                        "rect": {
+                          "x": 22,
+                          "y": 731,
+                          "pageX": 22,
+                          "pageY": 731,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Type & Fabric",
+                        "rect": {
+                          "x": 22,
+                          "y": 777,
+                          "pageX": 22,
+                          "pageY": 777,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Lehenga Sets",
+                        "href": "/collections/lehenga-set",
+                        "rect": {
+                          "x": 22,
+                          "y": 797,
+                          "pageX": 22,
+                          "pageY": 797,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Sharara Sets",
+                        "href": "/collections/sharara-set",
+                        "rect": {
+                          "x": 22,
+                          "y": 833,
+                          "pageX": 22,
+                          "pageY": 833,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Organza",
+                        "href": "/collections/organza",
+                        "rect": {
+                          "x": 22,
+                          "y": 869,
+                          "pageX": 22,
+                          "pageY": 869,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Gota Patti",
+                        "href": "/collections/gota-patti",
+                        "rect": {
+                          "x": 22,
+                          "y": 905,
+                          "pageX": 22,
+                          "pageY": 905,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 346,
+              "pageX": 22,
+              "pageY": 346,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 2,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "button",
+                "classes": null,
+                "text": "Accessories",
+                "rect": {
+                  "x": 22,
+                  "y": 346,
+                  "pageX": 22,
+                  "pageY": 346,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 1,
+                "style": "s30",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": "pm",
+                    "text": "+",
+                    "rect": {
+                      "x": 1408,
+                      "y": 363,
+                      "pageX": 1408,
+                      "pageY": 363,
+                      "w": 8,
+                      "h": 24
+                    },
+                    "childCount": 0,
+                    "style": "s31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "gj-md-sub",
+                "text": null,
+                "rect": {
+                  "x": 22,
+                  "y": 403,
+                  "pageX": 22,
+                  "pageY": 403,
+                  "w": 1396,
+                  "h": 0
+                },
+                "childCount": 1,
+                "style": "s32",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "gj-md-group",
+                    "text": null,
+                    "rect": {
+                      "x": 22,
+                      "y": 403,
+                      "pageX": 22,
+                      "pageY": 403,
+                      "w": 1396,
+                      "h": 364
+                    },
+                    "childCount": 10,
+                    "style": "s39",
+                    "children": [
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Shop by Type",
+                        "rect": {
+                          "x": 22,
+                          "y": 415,
+                          "pageX": 22,
+                          "pageY": 415,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Earrings",
+                        "href": "/collections/earrings",
+                        "rect": {
+                          "x": 22,
+                          "y": 435,
+                          "pageX": 22,
+                          "pageY": 435,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Necklaces",
+                        "href": "/collections/necklaces",
+                        "rect": {
+                          "x": 22,
+                          "y": 471,
+                          "pageX": 22,
+                          "pageY": 471,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Bangles",
+                        "href": "/collections/bangles",
+                        "rect": {
+                          "x": 22,
+                          "y": 507,
+                          "pageX": 22,
+                          "pageY": 507,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Rings",
+                        "href": "/collections/rings",
+                        "rect": {
+                          "x": 22,
+                          "y": 543,
+                          "pageX": 22,
+                          "pageY": 543,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Dupattas",
+                        "href": "/collections/dupatta",
+                        "rect": {
+                          "x": 22,
+                          "y": 579,
+                          "pageX": 22,
+                          "pageY": 579,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "h6",
+                        "classes": null,
+                        "text": "Home & Living",
+                        "rect": {
+                          "x": 22,
+                          "y": 625,
+                          "pageX": 22,
+                          "pageY": 625,
+                          "w": 1396,
+                          "h": 14
+                        },
+                        "childCount": 0,
+                        "style": "s34",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Bedsheets & Quilts",
+                        "href": "/collections/bedsheet",
+                        "rect": {
+                          "x": 22,
+                          "y": 645,
+                          "pageX": 22,
+                          "pageY": 645,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Dinner Sets",
+                        "href": "/collections/dinner-set",
+                        "rect": {
+                          "x": 22,
+                          "y": 681,
+                          "pageX": 22,
+                          "pageY": 681,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Home Décor",
+                        "href": "/collections/home-decor",
+                        "rect": {
+                          "x": 22,
+                          "y": 717,
+                          "pageX": 22,
+                          "pageY": 717,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 404,
+              "pageX": 22,
+              "pageY": 404,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": "hot",
+                "text": "Sale",
+                "href": "/collections/sale-2?sort_by=created-descending",
+                "rect": {
+                  "x": 22,
+                  "y": 404,
+                  "pageX": 22,
+                  "pageY": 404,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s29",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 462,
+              "pageX": 22,
+              "pageY": 462,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 2,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "button",
+                "classes": null,
+                "text": "Celebrities",
+                "rect": {
+                  "x": 22,
+                  "y": 462,
+                  "pageX": 22,
+                  "pageY": 462,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 1,
+                "style": "s30",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": "pm",
+                    "text": "+",
+                    "rect": {
+                      "x": 1408,
+                      "y": 479,
+                      "pageX": 1408,
+                      "pageY": 479,
+                      "w": 8,
+                      "h": 24
+                    },
+                    "childCount": 0,
+                    "style": "s31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "gj-md-sub",
+                "text": null,
+                "rect": {
+                  "x": 22,
+                  "y": 519,
+                  "pageX": 22,
+                  "pageY": 519,
+                  "w": 1396,
+                  "h": 0
+                },
+                "childCount": 1,
+                "style": "s32",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "gj-md-group",
+                    "text": null,
+                    "rect": {
+                      "x": 22,
+                      "y": 519,
+                      "pageX": 22,
+                      "pageY": 519,
+                      "w": 1396,
+                      "h": 88
+                    },
+                    "childCount": 2,
+                    "style": "s40",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Shop the Celebrity Edit",
+                        "href": "/collections/celebrities-in-gulabo-jaipur",
+                        "rect": {
+                          "x": 22,
+                          "y": 521,
+                          "pageX": 22,
+                          "pageY": 521,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      },
+                      {
+                        "tag": "a",
+                        "classes": null,
+                        "text": "Shark Tank's Favourite",
+                        "href": "/collections/shark-tanks-favourite",
+                        "rect": {
+                          "x": 22,
+                          "y": 557,
+                          "pageX": 22,
+                          "pageY": 557,
+                          "w": 1396,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s35",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 520,
+              "pageX": 22,
+              "pageY": 520,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": null,
+                "text": "Search",
+                "href": "#",
+                "rect": {
+                  "x": 22,
+                  "y": 520,
+                  "pageX": 22,
+                  "pageY": 520,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s28",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 578,
+              "pageX": 22,
+              "pageY": 578,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": null,
+                "text": "Account",
+                "href": "/account",
+                "rect": {
+                  "x": 22,
+                  "y": 578,
+                  "pageX": 22,
+                  "pageY": 578,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s28",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "gj-md-item",
+            "text": null,
+            "rect": {
+              "x": 22,
+              "y": 636,
+              "pageX": 22,
+              "pageY": 636,
+              "w": 1396,
+              "h": 58
+            },
+            "childCount": 1,
+            "style": "s27",
+            "children": [
+              {
+                "tag": "a",
+                "classes": null,
+                "text": "Bag (0)",
+                "href": "/cart",
+                "rect": {
+                  "x": 22,
+                  "y": 636,
+                  "pageX": 22,
+                  "pageY": 636,
+                  "w": 1396,
+                  "h": 57
+                },
+                "childCount": 0,
+                "style": "s28",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "102.469px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "position": "sticky",
+      "zIndex": "60",
+      "inset": "0px auto auto",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundColor": "rgb(251, 246, 239)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "102.469px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "position": "sticky",
+      "zIndex": "60",
+      "inset": "0px 0px auto",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "10.88px",
+      "letterSpacing": "3.0464px",
+      "color": "rgb(251, 246, 239)",
+      "textAlign": "center",
+      "textTransform": "uppercase",
+      "backgroundColor": "rgb(42, 32, 27)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "9px",
+      "paddingRight": "16px",
+      "paddingBottom": "9px",
+      "paddingLeft": "16px",
+      "width": "1440px",
+      "height": "34px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(251, 246, 239)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundColor": "rgb(251, 246, 239)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "14px",
+      "paddingBottom": "14px",
+      "width": "1440px",
+      "height": "68.4688px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "boxShadow": "rgba(42, 32, 27, 0.14) 0px 1px 0px 0px",
+      "position": "relative",
+      "zIndex": "1",
+      "opacity": "1",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "paddingRight": "64px",
+      "paddingLeft": "64px",
+      "marginRight": "40px",
+      "marginLeft": "40px",
+      "width": "1360px",
+      "height": "40.4688px",
+      "maxWidth": "1360px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "24px",
+      "rowGap": "24px",
+      "columnGap": "24px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundColor": "rgb(42, 32, 27)",
+      "backgroundPosition": "0% 0%",
+      "width": "24px",
+      "height": "1.5px",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "paddingRight": "43.2px",
+      "paddingLeft": "43.2px",
+      "width": "221.219px",
+      "height": "40.4688px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "0.4s",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s9": {
+      "fontSize": "27.2px",
+      "fontWeight": "500",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "lineHeight": "24.48px",
+      "letterSpacing": "4.352px",
+      "backgroundPosition": "0% 0%",
+      "width": "134.844px",
+      "height": "24.4688px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "8.96px",
+      "letterSpacing": "4.48px",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "paddingLeft": "4.48px",
+      "marginTop": "3px",
+      "width": "134.844px",
+      "height": "13px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "902.812px",
+      "height": "40px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "1",
+      "flexShrink": "1",
+      "flexBasis": "0%"
+    },
+    "s12": {
+      "backgroundPosition": "0% 0%",
+      "width": "78.9375px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "backgroundPosition": "0% 0%",
+      "width": "189.391px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "backgroundPosition": "0% 0%",
+      "width": "97.2344px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "backgroundPosition": "0% 0%",
+      "width": "73.9375px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s16": {
+      "backgroundPosition": "0% 0%",
+      "width": "110.078px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s17": {
+      "backgroundPosition": "0% 0%",
+      "width": "136.391px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s18": {
+      "backgroundPosition": "0% 0%",
+      "width": "77.2031px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s19": {
+      "backgroundPosition": "0% 0%",
+      "width": "125.641px",
+      "height": "40px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s20": {
+      "backgroundPosition": "0% 0%",
+      "width": "140px",
+      "height": "26px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "20px",
+      "rowGap": "20px",
+      "columnGap": "20px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s21": {
+      "backgroundPosition": "0% 0%",
+      "width": "20px",
+      "height": "26px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s22": {
+      "backgroundPosition": "0% 0%",
+      "width": "20px",
+      "height": "26px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s23": {
+      "backgroundColor": "rgb(251, 246, 239)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "18px",
+      "paddingRight": "22px",
+      "paddingBottom": "60px",
+      "paddingLeft": "22px",
+      "width": "1440px",
+      "height": "900px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "position": "fixed",
+      "zIndex": "200",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, -12)",
+      "transition": "opacity 0.4s, transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1), visibility 0.4s",
+      "visibility": "hidden",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s24": {
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "12px",
+      "width": "1396px",
+      "height": "38.4062px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s25": {
+      "fontSize": "22.4px",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "letterSpacing": "3.136px",
+      "backgroundPosition": "0% 0%",
+      "width": "107.281px",
+      "height": "27px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s26": {
+      "fontSize": "30.4px",
+      "fontWeight": "400",
+      "lineHeight": "30.4px",
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "4px",
+      "paddingRight": "10px",
+      "paddingBottom": "4px",
+      "paddingLeft": "10px",
+      "width": "38.125px",
+      "height": "38.4062px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "top": "26px",
+      "right": "28px",
+      "inset": "26px 28px auto auto",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s27": {
+      "backgroundPosition": "0% 0%",
+      "width": "1396px",
+      "height": "58px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderBottomWidth": "1px",
+      "borderColor": "rgb(42, 32, 27) rgb(42, 32, 27) rgba(42, 32, 27, 0.14)",
+      "borderStyle": "none none solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s28": {
+      "fontSize": "20.8px",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "textAlign": "left",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "2px",
+      "paddingBottom": "16px",
+      "paddingLeft": "2px",
+      "width": "1396px",
+      "height": "57px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s29": {
+      "fontSize": "20.8px",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "color": "rgb(174, 63, 88)",
+      "textAlign": "left",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "2px",
+      "paddingBottom": "16px",
+      "paddingLeft": "2px",
+      "width": "1396px",
+      "height": "57px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(174, 63, 88)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s30": {
+      "fontSize": "20.8px",
+      "fontWeight": "400",
+      "fontFamily": "\"Cormorant Garamond\", Georgia, serif",
+      "textAlign": "left",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "2px",
+      "paddingBottom": "16px",
+      "paddingLeft": "2px",
+      "width": "1396px",
+      "height": "57px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s31": {
+      "fontSize": "19.2px",
+      "color": "rgb(174, 63, 88)",
+      "backgroundPosition": "0% 0%",
+      "width": "7.65625px",
+      "height": "24px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(174, 63, 88)",
+      "opacity": "1",
+      "transition": "0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s32": {
+      "backgroundPosition": "0% 0%",
+      "width": "1396px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "max-height 0.5s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s33": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "2px",
+      "paddingBottom": "14px",
+      "width": "1396px",
+      "height": "862px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s34": {
+      "fontSize": "9.6px",
+      "fontWeight": "500",
+      "letterSpacing": "2.304px",
+      "color": "rgb(174, 63, 88)",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "marginTop": "10px",
+      "marginBottom": "6px",
+      "width": "1396px",
+      "height": "14px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(174, 63, 88)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s35": {
+      "fontSize": "15.2px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "7px",
+      "paddingBottom": "7px",
+      "paddingLeft": "10px",
+      "width": "1396px",
+      "height": "36px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s36": {
+      "fontSize": "15.2px",
+      "color": "rgb(174, 63, 88)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "7px",
+      "paddingBottom": "7px",
+      "paddingLeft": "10px",
+      "width": "1396px",
+      "height": "36px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(174, 63, 88)",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s37": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "2px",
+      "paddingBottom": "14px",
+      "width": "1396px",
+      "height": "220px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s38": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "2px",
+      "paddingBottom": "14px",
+      "width": "1396px",
+      "height": "610px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s39": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "2px",
+      "paddingBottom": "14px",
+      "width": "1396px",
+      "height": "364px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s40": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "2px",
+      "paddingBottom": "14px",
+      "width": "1396px",
+      "height": "88px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

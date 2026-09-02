@@ -1,0 +1,151 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/saree",
+  "generatedAt": "2026-09-02T07:52:09.839Z",
+  "viewport": "pc",
+  "selector": "a.wa-float",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "a",
+    "classes": "wa-float",
+    "text": null,
+    "href": "https://wa.me/919928594699?text=Hi+Gulabo+Jaipur%21+I+have+a+question.",
+    "ariaLabel": "Chat with us on WhatsApp",
+    "rect": {
+      "x": 1364,
+      "y": 824,
+      "pageX": 1364,
+      "pageY": 824,
+      "w": 56,
+      "h": 56
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 1376,
+          "y": 836,
+          "pageX": 1376,
+          "pageY": 836,
+          "w": 32,
+          "h": 32
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": 1379,
+              "y": 839,
+              "pageX": 1379,
+              "pageY": 839,
+              "w": 27,
+              "h": 27
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": 1384,
+              "y": 845,
+              "pageX": 1384,
+              "pageY": 845,
+              "w": 16,
+              "h": 15
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(37, 211, 102)",
+      "backgroundPosition": "0% 0%",
+      "width": "56px",
+      "height": "56px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderRadius": "50%",
+      "borderColor": "rgb(42, 32, 27)",
+      "boxShadow": "rgba(20, 12, 10, 0.28) 0px 8px 24px 0px",
+      "position": "fixed",
+      "top": "824px",
+      "right": "20px",
+      "bottom": "20px",
+      "left": "1364px",
+      "zIndex": "120",
+      "inset": "824px 20px 20px 1364px",
+      "opacity": "1",
+      "transition": "transform 0.25s, box-shadow 0.25s",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "width": "32px",
+      "height": "32px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

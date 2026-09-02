@@ -1,0 +1,4 @@
+export const navigation = [
+  { label: "New Arrivals", href: "/collections/new-arrivals" }, { label: "Ready to Ship", href: "/collections/ready-to-ship" }, { label: "Women", href: "/collections/women" }, { label: "Anarkalis", href: "/collections/anarkalis" }, { label: "Kurta Sets", href: "/collections/kurta-set" }, { label: "Straight Sets", href: "/collections/straight-sets" }, { label: "Co-ords", href: "/collections/co-ords" }, { label: "Dresses", href: "/collections/dresses" }, { label: "Sarees", href: "/collections/saree" },
+];
+export const collectionNames: Record<string, string> = { "new-arrivals": "New Arrivals", "ready-to-ship": "Ready to Ship", women: "Women", anarkalis: "Anarkalis", "kurta-set": "Kurta Sets", "straight-sets": "Straight Sets", "co-ords": "Co-ords", dresses: "Dresses", saree: "Sarees" };

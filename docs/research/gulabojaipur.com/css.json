@@ -1,0 +1,434 @@
+{
+  "url": "https://www.gulabojaipur.com/",
+  "generatedAt": "2026-09-02T07:27:40.773Z",
+  "stylesheets": [
+    {
+      "href": "(inline <style>)",
+      "blocked": false,
+      "fetched": false,
+      "bytes": 1145
+    },
+    {
+      "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500;600&display=swap",
+      "blocked": false,
+      "fetched": true,
+      "bytes": 2362
+    },
+    {
+      "href": "https://www.gulabojaipur.com/cdn/shop/t/76/assets/base.css?v=90471413419570415931787121829",
+      "blocked": false,
+      "fetched": false,
+      "bytes": 72023
+    },
+    {
+      "href": "(inline <style>)",
+      "blocked": false,
+      "fetched": false,
+      "bytes": 99
+    },
+    {
+      "href": "(inline <style>)",
+      "blocked": false,
+      "fetched": false,
+      "bytes": 259
+    },
+    {
+      "href": "(inline <style>)",
+      "blocked": false,
+      "fetched": false,
+      "bytes": 3145
+    },
+    {
+      "href": "https://app.wigzo.com/assets/plugins/exitintent/exitintent.css",
+      "blocked": false,
+      "fetched": true,
+      "bytes": 83772
+    }
+  ],
+  "totalRules": 1110,
+  "breakpoints": [
+    "(max-width: 1080px)",
+    "(max-width: 520px)",
+    "(max-width: 599px)",
+    "(max-width: 680px)",
+    "(max-width: 720px)",
+    "(max-width: 749px)",
+    "(max-width: 760px)",
+    "(max-width: 860px)",
+    "(max-width: 980px)",
+    "(max-width:991px)",
+    "(min-width: 600px)",
+    "(min-width:1px)"
+  ],
+  "keyframeNames": [
+    "drop",
+    "slide",
+    "vfade",
+    "gjFade",
+    "wigzo-animation-fadeIn",
+    "wigzo-animation-slideInLeft",
+    "wigzo-animation-slideInUp",
+    "wigzo-animation-swing",
+    "wigzo-animation-shake",
+    "wigzo-animation-blur",
+    "slide-wigzo-down-top-animation-large",
+    "slide-wigzo-down-top-animation",
+    "slide-wigzo-up-bottom-animation"
+  ],
+  "interactiveStates": {
+    "hover": [
+      {
+        "selector": ".btn-fill:hover",
+        "declarations": "background: var(--rose-deep);",
+        "media": null
+      },
+      {
+        "selector": ".btn-out:hover",
+        "declarations": "background: rgb(255, 255, 255); color: var(--ink); border-color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".btn-ink:hover",
+        "declarations": "background: var(--ink); color: var(--ivory);",
+        "media": null
+      },
+      {
+        "selector": ".nav a:hover::after",
+        "declarations": "width: 100%;",
+        "media": null
+      },
+      {
+        "selector": ".icons a:hover svg",
+        "declarations": "stroke: var(--gold-soft);",
+        "media": null
+      },
+      {
+        "selector": ".cat:hover img",
+        "declarations": "transform: scale(1.06);",
+        "media": null
+      },
+      {
+        "selector": ".cat:hover .go",
+        "declarations": "opacity: 1; transform: none;",
+        "media": null
+      },
+      {
+        "selector": ".card:hover .img-b",
+        "declarations": "opacity: 1;",
+        "media": null
+      },
+      {
+        "selector": ".card:hover .img-a, .card:hover .img-b",
+        "declarations": "transform: scale(1.05);",
+        "media": null
+      },
+      {
+        "selector": ".wish:hover",
+        "declarations": "transform: scale(1.1); background: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".quick:hover",
+        "declarations": "background: var(--ink); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".card:hover .quick",
+        "declarations": "transform: none; opacity: 1;",
+        "media": null
+      },
+      {
+        "selector": ".rail-nav:hover",
+        "declarations": "background: var(--rose); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".press-row span:hover",
+        "declarations": "opacity: 1; color: var(--rose);",
+        "media": null
+      },
+      {
+        "selector": ".celeb-card:hover img",
+        "declarations": "transform: scale(1.06);",
+        "media": null
+      },
+      {
+        "selector": ".mosaic a:hover img",
+        "declarations": "transform: scale(1.07);",
+        "media": null
+      },
+      {
+        "selector": ".mosaic a:hover::after",
+        "declarations": "opacity: 1;",
+        "media": null
+      },
+      {
+        "selector": ".foot-soc a:hover",
+        "declarations": "background: var(--rose); border-color: var(--rose);",
+        "media": null
+      },
+      {
+        "selector": ".foot-col a:hover",
+        "declarations": "color: rgb(255, 255, 255); padding-left: 5px;",
+        "media": null
+      },
+      {
+        "selector": ".chip:hover",
+        "declarations": "border-color: var(--ink); color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".crumb a:hover",
+        "declarations": "color: var(--rose);",
+        "media": null
+      },
+      {
+        "selector": ".thumb.on, .thumb:hover",
+        "declarations": "opacity: 1; border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".size-btn:hover",
+        "declarations": "border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".addBag:hover",
+        "declarations": "background: var(--rose-deep);",
+        "media": null
+      },
+      {
+        "selector": ".addWish:hover",
+        "declarations": "background: var(--ink); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".di-add:hover",
+        "declarations": "background: var(--ink); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".di-rm:hover",
+        "declarations": "color: var(--rose);",
+        "media": null
+      },
+      {
+        "selector": ".size-table tbody tr:hover",
+        "declarations": "background: var(--paper);",
+        "media": null
+      },
+      {
+        "selector": ".wa-float:hover",
+        "declarations": "transform: scale(1.08); box-shadow: rgba(20, 12, 10, 0.34) 0px 12px 30px;",
+        "media": null
+      },
+      {
+        "selector": ".pagination a:hover",
+        "declarations": "border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".head-nav a:hover::after",
+        "declarations": "width: 100%;",
+        "media": null
+      },
+      {
+        "selector": ".gnav-item:hover > a::after, .gnav-item.open > a::after",
+        "declarations": "transform: scaleX(1);",
+        "media": null
+      },
+      {
+        "selector": ".gj-mega ul a:hover",
+        "declarations": "color: var(--rose); padding-left: 6px;",
+        "media": null
+      },
+      {
+        "selector": ".gj-tile:hover img",
+        "declarations": "transform: scale(1.05);",
+        "media": null
+      },
+      {
+        "selector": ".gj-offers a:hover",
+        "declarations": "border-color: var(--rose); color: var(--rose);",
+        "media": null
+      },
+      {
+        "selector": ".gj-offers a.lead:hover",
+        "declarations": "background: var(--rose-deep); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".gj-sale-card:hover img",
+        "declarations": "transform: scale(1.05);",
+        "media": null
+      },
+      {
+        "selector": ".gj-celeb-tile:hover img",
+        "declarations": "transform: scale(1.05);",
+        "media": null
+      },
+      {
+        "selector": ".gj-celeb-side .btn-mini:hover",
+        "declarations": "background: var(--ink); color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".gnav-item.has-mega:hover > .gj-mega",
+        "declarations": "opacity: 1; visibility: visible; transform: none; transition-delay: 0.05s;",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".gnav-item.has-mega:hover > a::after",
+        "declarations": "transform: scaleX(1);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover)",
+        "declarations": "background: var(--ivory); box-shadow: 0 1px 0 var(--line);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover) .gnav-item > a",
+        "declarations": "color: var(--ink);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover) .gnav-item.hot > a",
+        "declarations": "color: var(--rose);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover) .brand",
+        "declarations": "color: var(--ink);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover) .icons svg",
+        "declarations": "stroke: var(--ink);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover) .burger span",
+        "declarations": "background: var(--ink);",
+        "media": "@media (hover: hover) and (pointer: fine)"
+      },
+      {
+        "selector": ".head:has(.gnav-item.has-mega:hover)",
+        "declarations": "box-shadow: 0 1px 0 var(--line);",
+        "media": null
+      },
+      {
+        "selector": ".gj-intro .lead:hover",
+        "declarations": "background: var(--rose-deep);",
+        "media": null
+      },
+      {
+        "selector": ".opt-btn:hover",
+        "declarations": "border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".foot-policies a:hover",
+        "declarations": "color: rgb(255, 255, 255);",
+        "media": null
+      },
+      {
+        "selector": ".wigzoCoupanSmall a:hover,.wigzoHolderLarge a:hover",
+        "declarations": "text-decoration:underline",
+        "media": null
+      }
+    ],
+    "focus": [
+      {
+        "selector": ".modal-card input:focus",
+        "declarations": "border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": ".skip:focus",
+        "declarations": "left: 12px; top: 12px; background: rgb(255, 255, 255); padding: 10px 16px; z-index: 999;",
+        "media": null
+      },
+      {
+        "selector": ".field input:focus",
+        "declarations": "border-color: var(--ink);",
+        "media": null
+      },
+      {
+        "selector": "#exit-intent-tempalte17 .wigzo-subs-pop-input:focus,#wigzo-secret-offers-popup .wigzo-mobile-offers-form .wigzo-mobile-offers-input:focus,.WIGZOEXITINTENTTEMP25 .WIGZOEXITINTENTTEMP25-wigzo-secret-offers-popup .wigzo-mobile-exclusive-offers-form .wigzo-mobile-exclusive-offers-input:focus",
+        "declarations": "border:1px solid #000;text-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;box-shadow:none",
+        "media": null
+      },
+      {
+        "selector": "#exit-intent-tempalte17 .wigzo-subscribe-close-icon img,.wigzo-subscribe-close-icon:focus",
+        "declarations": "border:0;outline:0",
+        "media": null
+      },
+      {
+        "selector": "#wigzo-secret-offers-popup .wigzo-offers-close-icon img,.wigzo-offers-close-icon:focus",
+        "declarations": "border:0;outline:0;margin:0;padding:0",
+        "media": null
+      }
+    ],
+    "active": [
+      {
+        "selector": "#WIGZOEXITINTENTTEMP23 button[type=submit]:active,#exit-intent-tempalte1 button[type=submit]:active,#exit-intent-tempalte13 button[type=submit]:active,#exit-intent-tempalte2 button[type=submit]:active,#exit-intent-tempalte3 button[type=submit]:active,#exit-intent-tempalte4 button[type=submit]:active,#exit-intent-tempalte5 button[type=submit]:active,#exit-intent-tempalte6 button[type=submit]:active,#exit-intent-tempalte7 button[type=submit]:active,.WIGZOEXITINTENTTEMP24 button[type=submit]:active,.WIGZOEXITINTENTTEMP29 button[type=submit]:active,.WIGZOEXITINTENTTEMP30 button[type=submit]:active,.WIGZOEXITINTENTTEMP32 button[type=submit]:active",
+        "declarations": "-webkit-box-shadow:none!important;-moz-box-shadow:none!important;box-shadow:none!important;top:3px",
+        "media": null
+      },
+      {
+        "selector": "#exit-intent-tempalte12 button[type=submit]:active,#exit-intent-tempalte15 button[type=submit]:active,#exit-intent-tempalte16 button[type=submit]:active",
+        "declarations": "-webkit-box-shadow:none!important;-moz-box-shadow:none!important;box-shadow:none!important;top:0",
+        "media": null
+      }
+    ],
+    "checked": [
+      {
+        "selector": ".temp22_check:checked,.temp22_check:not(:checked)",
+        "declarations": "position:absolute;left:-9999px",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:checked+label,.temp22_check:not(:checked)+label",
+        "declarations": "position:relative;display:block;cursor:pointer",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:checked+label:before,.temp22_check:not(:checked)+label:before",
+        "declarations": "content:'';position:absolute;left:0;margin-left:0;top:4px;width:12px;height:12px;border:1px solid #e4e4e4;border-radius:0;background:#fff",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:checked+label:after,.temp22_check:not(:checked)+label:after",
+        "declarations": "content:'';width:6px;height:6px;background:#9d0000;position:absolute;top:7px;left:-1px;margin-left:4px;border-radius:0;transition:visibility .4s",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:checked+label,.temp22_check:not(:checked)+label",
+        "declarations": "padding:0 0 0 22px;left:-3px",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:not(:checked)+label:after",
+        "declarations": "opacity:0;visibility:hidden",
+        "media": null
+      },
+      {
+        "selector": ".temp22_check:checked+label:after",
+        "declarations": "opacity:1;visibility:visible",
+        "media": null
+      },
+      {
+        "selector": ".WIGZOEXITINTENTTEMP23 .customchk input[type=radio]:checked:before,.WIGZOEXITINTENTTEMP24 .customchk input[type=radio]:checked:before",
+        "declarations": "border:4px solid #767e9f",
+        "media": null
+      },
+      {
+        "selector": ".WIGZOEXITINTENTTEMP23 .genders .customradio input[type=radio]:checked+label,.WIGZOEXITINTENTTEMP24 .genders .customradio input[type=radio]:checked+label",
+        "declarations": "border-color:#414f61;color:#767e9f;background:url('https://app.wigzo.com/assets/img/exitintent-template/icon-blue-yellow.png') right center/24px auto no-repeat",
+        "media": null
+      }
+    ]
+  },
+  "matched": null
+}

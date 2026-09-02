@@ -1,0 +1,450 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/saree",
+  "generatedAt": "2026-09-02T07:52:09.839Z",
+  "images": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Deepika-Anarkali-Set-Gulabo-Jaipur-7238.jpg",
+      "srcset": null,
+      "alt": "New in",
+      "naturalWidth": 2000,
+      "naturalHeight": 2501,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "gj-tile",
+      "local": "public/images/Deepika-Anarkali-Set-Gulabo-Jaipur-7238.jpg"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Rati-Jaal-Lehenga-Gulabo-Jaipur-8860.jpg",
+      "srcset": null,
+      "alt": "Wedding edit",
+      "naturalWidth": 683,
+      "naturalHeight": 1024,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "gj-tile",
+      "local": "public/images/Rati-Jaal-Lehenga-Gulabo-Jaipur-8860.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec3102.jpg?v=1756280182&width=480",
+      "srcset": null,
+      "alt": "Harqat Red Straight Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/JD21dec3102.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec3158.jpg?v=1756280185&width=480",
+      "srcset": null,
+      "alt": "Harqat Green Straight Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/JD21dec3158.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2517.jpg?v=1756280197&width=480",
+      "srcset": null,
+      "alt": "Khalak Brown Co-ord Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/JD21dec2517.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2791.jpg?v=1756280212&width=480",
+      "srcset": null,
+      "alt": "Alia Blue Straight Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/JD21dec2791.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2870_5a0360e5-7e8b-4e4d-964f-223cf06ac182.jpg?v=1756280211&width=480",
+      "srcset": null,
+      "alt": "Alia Peach  Straight Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/JD21dec2870_5a0360e5-7e8b-4e4d-964f-223cf06ac182.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/DSC01062.jpg?v=1756280311&width=480",
+      "srcset": null,
+      "alt": "Dua Black Anarkali Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/DSC01062.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/TGP4612_1.webp?v=1756280337&width=480",
+      "srcset": null,
+      "alt": "Niha Cream Straight Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/TGP4612_1.webp"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/files/TGP4660.jpg?v=1756280339&width=480",
+      "srcset": null,
+      "alt": "Niha Light Pink Straight Kurta Set",
+      "naturalWidth": 480,
+      "naturalHeight": 720,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/TGP4660.jpg"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Karishma-Kapoor-in-MARIGOLD-GREEN-SET-Gulabo-Jaipur-9635.jpg",
+      "srcset": null,
+      "alt": "Karisma Kapoor",
+      "naturalWidth": 683,
+      "naturalHeight": 1024,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/Karishma-Kapoor-in-MARIGOLD-GREEN-SET-Gulabo-Jaipur-9635.jpg"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Shamita-Shetty-in-Naaz-Green-Straight-Set-Gulabo-Jaipur-7732.jpg",
+      "srcset": null,
+      "alt": "Shamita Shetty",
+      "naturalWidth": 1080,
+      "naturalHeight": 1334,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/Shamita-Shetty-in-Naaz-Green-Straight-Set-Gulabo-Jaipur-7732.jpg"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Rasna-Bhasin-in-RaatRani-Black-Set-Gulabo-Jaipur-987.jpg",
+      "srcset": null,
+      "alt": "Rasna Bhasin",
+      "naturalWidth": 1080,
+      "naturalHeight": 1350,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/Rasna-Bhasin-in-RaatRani-Black-Set-Gulabo-Jaipur-987.jpg"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0571/7773/5322/files/IMG_6264.jpg",
+      "srcset": null,
+      "alt": "Shark Tank's Favourite",
+      "naturalWidth": 852,
+      "naturalHeight": 1280,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "sc-img",
+      "local": "public/images/IMG_6264.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4677_5ffd5192-b10f-40a7-b280-da50d795ce28.jpg?v=1755952182&width=640",
+      "srcset": null,
+      "alt": "Georgette Bhandej Gulshan Saree With Kachi Patti Work",
+      "naturalWidth": 640,
+      "naturalHeight": 960,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "card-media",
+      "local": "public/images/IMG_4677_5ffd5192-b10f-40a7-b280-da50d795ce28.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4810_69b1b451-0918-4e8b-9b93-382d8e0c8cd6.jpg?v=1755952185&width=640",
+      "srcset": null,
+      "alt": "Gulbaagh Cotton Saree Kachi Patti Detailing In Border",
+      "naturalWidth": 640,
+      "naturalHeight": 960,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "card-media",
+      "local": "public/images/IMG_4810_69b1b451-0918-4e8b-9b93-382d8e0c8cd6.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4554_4968d588-b3b7-482c-94a8-f10afbc33e20.jpg?v=1755952186&width=640",
+      "srcset": null,
+      "alt": "Gulrez Organza Saree Kachi Patti Detailing Scalloped Edges",
+      "naturalWidth": 640,
+      "naturalHeight": 960,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "card-media",
+      "local": "public/images/IMG_4554_4968d588-b3b7-482c-94a8-f10afbc33e20.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4588_2866a9f7-cc50-40dc-bde5-c5ecfde2e5c6.jpg?v=1755952183&width=640",
+      "srcset": null,
+      "alt": "Gulnoor Organza Saree",
+      "naturalWidth": 640,
+      "naturalHeight": 960,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "card-media",
+      "local": "public/images/IMG_4588_2866a9f7-cc50-40dc-bde5-c5ecfde2e5c6.jpg"
+    },
+    {
+      "src": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4723_fa80b4a8-b651-4784-a3b2-91ad7d2ba174.jpg?v=1755952187&width=640",
+      "srcset": null,
+      "alt": "Gulbahaar Organza Saree Gota Work",
+      "naturalWidth": 640,
+      "naturalHeight": 960,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "auto",
+      "parentClasses": "card-media",
+      "local": "public/images/IMG_4723_fa80b4a8-b651-4784-a3b2-91ad7d2ba174.jpg"
+    },
+    {
+      "src": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "srcset": null,
+      "alt": "gokwik_loading_gif",
+      "naturalWidth": 70,
+      "naturalHeight": 70,
+      "siblingImgs": 20,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "template-collection",
+      "local": "public/images/gokwik_gif.gif"
+    }
+  ],
+  "videos": [],
+  "backgroundImages": [],
+  "inlineSvgs": [
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\"><circle cx=\"11\" cy=\"11\" r=\"7\"></circle><path d=\"M21 21l-4.3-4.3\"></path></svg>",
+      "width": 20,
+      "height": 20,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"8\" r=\"4\"></circle><path d=\"M4 21c0-4 4-6 8-6s8 2 8 6\"></path></svg>",
+      "width": 20,
+      "height": 20,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 20s-7-4.5-7-9a3.7 3.7 0 0 1 7-1.5A3.7 3.7 0 0 1 19 11c0 4.5-7 9-7 9z\"></path></svg>",
+      "width": 20,
+      "height": 20,
+      "context": "0"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 7h12l-1 14H7L6 7z\"></path><path d=\"M9 7a3 3 0 0 1 6 0\"></path></svg>",
+      "width": 20,
+      "height": 20,
+      "context": "0"
+    },
+    {
+      "outerHTML": "<svg width=\"10\" height=\"6\" viewBox=\"0 0 10 6\" style=\"stroke:currentColor;fill:none\"><path d=\"M1 1l4 4 4-4\"></path></svg>",
+      "width": "10",
+      "height": "6",
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"5\"></rect><circle cx=\"12\" cy=\"12\" r=\"4\"></circle><circle cx=\"17.5\" cy=\"6.5\" r=\"1\"></circle></svg>",
+      "width": 16,
+      "height": 16,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2a10 10 0 0 0-8.6 15.06L2 22l5.05-1.32A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.18-1.15l-.3-.18-3 .78.8-2.92-.2-.31A8.2 8.2 0 1 1 12 20.2z\"></path><path d=\"M17.5 14.4c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48-.89-.79-1.49-1.77-1.66-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.49 0 1.47 1.07 2.89 1.22 3.09.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.63.71.23 1.36.19 1.87.12.57-.09 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.07-.13-.27-.2-.57-.35z\"></path></svg>",
+      "width": 32,
+      "height": 32,
+      "context": ""
+    }
+  ],
+  "svgImages": [],
+  "seo": {
+    "favicons": [],
+    "ogImage": "https://cdn.shopify.com/s/files/1/0571/7773/5322/collections/8_3.png?v=1710159913",
+    "manifest": null,
+    "title": "Saree – Gulabo Jaipur",
+    "description": "Celebrating Timeless Elegance: Sarees by Gulabo Jaipur Sarees, the epitome of grace and versatility, hold a special place in the hearts of women across the world. At Gulabo Jaipur, we bring you an exquisite collection of sarees that are not just pieces of fabric but stories woven with threads of tradition and modernity"
+  },
+  "fonts": [],
+  "downloads": [
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Deepika-Anarkali-Set-Gulabo-Jaipur-7238.jpg",
+      "local": "public/images/Deepika-Anarkali-Set-Gulabo-Jaipur-7238.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Rati-Jaal-Lehenga-Gulabo-Jaipur-8860.jpg",
+      "local": "public/images/Rati-Jaal-Lehenga-Gulabo-Jaipur-8860.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec3102.jpg?v=1756280182&width=480",
+      "local": "public/images/JD21dec3102.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec3158.jpg?v=1756280185&width=480",
+      "local": "public/images/JD21dec3158.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2517.jpg?v=1756280197&width=480",
+      "local": "public/images/JD21dec2517.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2791.jpg?v=1756280212&width=480",
+      "local": "public/images/JD21dec2791.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/JD21dec2870_5a0360e5-7e8b-4e4d-964f-223cf06ac182.jpg?v=1756280211&width=480",
+      "local": "public/images/JD21dec2870_5a0360e5-7e8b-4e4d-964f-223cf06ac182.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/DSC01062.jpg?v=1756280311&width=480",
+      "local": "public/images/DSC01062.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/TGP4612_1.webp?v=1756280337&width=480",
+      "local": "public/images/TGP4612_1.webp",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/files/TGP4660.jpg?v=1756280339&width=480",
+      "local": "public/images/TGP4660.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Karishma-Kapoor-in-MARIGOLD-GREEN-SET-Gulabo-Jaipur-9635.jpg",
+      "local": "public/images/Karishma-Kapoor-in-MARIGOLD-GREEN-SET-Gulabo-Jaipur-9635.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Shamita-Shetty-in-Naaz-Green-Straight-Set-Gulabo-Jaipur-7732.jpg",
+      "local": "public/images/Shamita-Shetty-in-Naaz-Green-Straight-Set-Gulabo-Jaipur-7732.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/products/Rasna-Bhasin-in-RaatRani-Black-Set-Gulabo-Jaipur-987.jpg",
+      "local": "public/images/Rasna-Bhasin-in-RaatRani-Black-Set-Gulabo-Jaipur-987.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/files/IMG_6264.jpg",
+      "local": "public/images/IMG_6264.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4677_5ffd5192-b10f-40a7-b280-da50d795ce28.jpg?v=1755952182&width=640",
+      "local": "public/images/IMG_4677_5ffd5192-b10f-40a7-b280-da50d795ce28.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4810_69b1b451-0918-4e8b-9b93-382d8e0c8cd6.jpg?v=1755952185&width=640",
+      "local": "public/images/IMG_4810_69b1b451-0918-4e8b-9b93-382d8e0c8cd6.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4554_4968d588-b3b7-482c-94a8-f10afbc33e20.jpg?v=1755952186&width=640",
+      "local": "public/images/IMG_4554_4968d588-b3b7-482c-94a8-f10afbc33e20.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4588_2866a9f7-cc50-40dc-bde5-c5ecfde2e5c6.jpg?v=1755952183&width=640",
+      "local": "public/images/IMG_4588_2866a9f7-cc50-40dc-bde5-c5ecfde2e5c6.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://www.gulabojaipur.com/cdn/shop/products/IMG_4723_fa80b4a8-b651-4784-a3b2-91ad7d2ba174.jpg?v=1755952187&width=640",
+      "local": "public/images/IMG_4723_fa80b4a8-b651-4784-a3b2-91ad7d2ba174.jpg",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://pdp.gokwik.co/assets/icons/gokwik_gif.gif",
+      "local": "public/images/gokwik_gif.gif",
+      "kind": "image",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://cdn.shopify.com/s/files/1/0571/7773/5322/collections/8_3.png?v=1710159913",
+      "local": "public/seo/8_3.png",
+      "kind": "seo",
+      "ok": true,
+      "cached": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.gulabojaipur.com/collections/saree",
+  "generatedAt": "2026-09-02T07:52:09.839Z",
+  "viewport": "pc",
+  "selector": "div#scrim",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "scrim",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "w": 1440,
+      "h": 900
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "300",
+      "fontFamily": "Jost, -apple-system, Helvetica, Arial, sans-serif",
+      "color": "rgb(42, 32, 27)",
+      "textAlign": "start",
+      "backgroundColor": "rgba(20, 12, 10, 0.5)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "900px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(42, 32, 27)",
+      "position": "fixed",
+      "zIndex": "90",
+      "opacity": "0",
+      "transition": "0.35s",
+      "visibility": "hidden",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}
